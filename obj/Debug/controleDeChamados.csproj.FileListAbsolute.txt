@@ -1,0 +1,34 @@
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.csprojAssemblyReference.cache
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.frmInserirChamado.resources
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.Properties.Resources.resources
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.csproj.GenerateResource.cache
+C:\Users\User\Dropbox\controleDeChamados\bin\Debug\controleDeChamados.exe.config
+C:\Users\User\Dropbox\controleDeChamados\bin\Debug\controleDeChamados.exe
+C:\Users\User\Dropbox\controleDeChamados\bin\Debug\controleDeChamados.pdb
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.exe
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.pdb
+C:\Users\User\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.frmMenu.resources
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\bin\Debug\controleDeChamados.exe.config
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\bin\Debug\controleDeChamados.exe
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\bin\Debug\controleDeChamados.pdb
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.csprojAssemblyReference.cache
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.frmMenu.resources
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.Properties.Resources.resources
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.csproj.GenerateResource.cache
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.exe
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.pdb
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.frmHistoricoChamado.resources
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.forms.frmAdicionarChamado.resources
+C:\Users\Paulo Lapetina\Dropbox\controleDeChamados\obj\Debug\controleDeChamados.csproj.ResolveComReference.cache
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\bin\Debug\controleDeChamados.exe.config
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\bin\Debug\controleDeChamados.exe
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\bin\Debug\controleDeChamados.pdb
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.csprojAssemblyReference.cache
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.csproj.ResolveComReference.cache
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.forms.frmAdicionarChamado.resources
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.frmHistoricoChamado.resources
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.frmMenu.resources
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.Properties.Resources.resources
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.csproj.GenerateResource.cache
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.exe
+C:\Users\Paulo Lapetina\Dropbox\07 - Programação\03 - Visual Studio\controleDeChamados\obj\Debug\controleDeChamados.pdb
